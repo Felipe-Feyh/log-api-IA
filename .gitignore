@@ -1,0 +1,15 @@
+# Ambiente virtual Python
+venv/
+env/
+.venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Banco de dados SQLite local
+database.db
+
+# Ignorar o arquivo de teste que criamos
+sample_error.log

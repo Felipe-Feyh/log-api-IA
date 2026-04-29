@@ -10,6 +10,3 @@ __pycache__/
 
 # Banco de dados SQLite local
 database.db
-
-# Ignorar o arquivo de teste que criamos
-sample_error.log
